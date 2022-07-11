@@ -1,0 +1,65 @@
+{
+    "nav": {
+        "home": "Xin Chào Cả Nhà",
+        "news": "Xin Chào Cả Nhà 1",
+        "contact": "Xin Chào Cả Nhà 2",
+        "about": "Xin Chào Cả Nhà 3",
+        "homee": {
+            "content": "Xin Chào Cả Nhà 6",
+            "home": "Xin Chào Cả Nhà",
+            "news": "Xin Chào Cả Nhà 1",
+            "contact": "Xin Chào Cả Nhà 2",
+            "about": "Xin Chào Cả Nhà 3",
+            "blog":{
+                "title": "Xin chào Blog",
+                "content": "Xin chào Blog 2",
+                "footer": "Xin chào Blog 3",
+                "element": {
+                    "R1":"Quan Tri Vien 1",
+                    "R2":"Quan Tri Vien 2",
+                    "R3":"Quan Tri Vien 3",
+                    "position": {
+                        "P1":"Bac Si 1",
+                        "P2":"Bac Si 2",
+                        "P3":"Bac Si 3",
+                        "blog":"Con sóng dưới lòng sâu  Con sóng trên mặt nước Ôi con sóng nhớ bờ Ngày đêm không ngủ được Lòng em nhớ đến anhCả trong mơ còn thức Dẫu xuôi về phương bắc Dẫu ngược về phương nam nào em cũng nghĩ Hướng về anh - một phương"
+                    }
+                }
+            }
+        }
+    },
+    "footer": {
+        "home": "Xin Chào Cả Nhà",
+        "news": "Xin Chào Cả Nhà 1",
+        "contact": "Xin Chào Cả Nhà 2",
+        "about": "Xin Chào Cả Nhà 3",
+        "homee": {
+            "content": "Xin Chào Cả Nhà 6",
+            "home": "Xin Chào Cả Nhà",
+            "news": "Xin Chào Cả Nhà 1",
+            "contact": "Xin Chào Cả Nhà 2",
+            "about": "Xin Chào Cả Nhà 3",
+            "blog":{
+                "title": "Xin chào Blog",
+                "content": "Xin chào Blog 2",
+                "footer": "Xin chào Blog 3",
+                "element": {
+                    "R1":"Quan Tri Vien 1",
+                    "R2":"Quan Tri Vien 2",
+                    "R3":"Quan Tri Vien 3",
+                    "position": {
+                        "P1":"Bac Si 1",
+                        "P2":"Bac Si 2",
+                        "P3":"Bac Si 3"
+                    }
+                }
+            }
+        }
+    },
+    "content":{
+        "text": "Tết Nguyên Đán thường rơi vào khoảng cuối tháng Giêng đến đầu tháng Hai; nó là một trong những ngày lễ quan trọng nhất ở Việt Nam. Về mặt chính thức, lễ hội bao gồm các ngày 1, 2, 3 Âm lịch; tuy nhiên, người dân Việt Nam thường dành gần một tháng để kỷ niệm sự kiện đặc biệt này. Ngày Tết bắt đầu được đánh dấu bằng ngày đầu tiên của năm Âm lịch; tuy nhiên, sự chuẩn bị của nó bắt đầu từ rất lâu trước đó. Ngày 23 tháng Giêng âm lịch là ngày Đông - nghi lễ cúng Táo quân (Táo Công). Người ta cho rằng mỗi năm vào ngày này, các vị thần này lên trời để báo cho Ngọc Hoàng biết mọi hoạt động của các hộ gia đình trên trần gian. Vào đêm giao thừa, họ trở về nhà để tiếp tục công việc chăm sóc gia đình. Vào ngày Tết, những người đầu tiên đến thăm các hộ gia đình - được gọi là người đầu tiên - rất quan trọng và do đó cần được lựa chọn kỹ càng, vì họ tin rằng sẽ nắm trong tay toàn bộ may mắn của gia đình trong năm mới (Tân Niên ). Sau đó, đến mùng 3, thậm chí mùng 4 Tết, cá nhân gặp gỡ người thân, bạn bè, đồng nghiệp, chúc mọi điều tốt lành như hạnh phúc, sức khỏe và thành công"
+    }
+}
+
+ 
+

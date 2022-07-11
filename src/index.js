@@ -4,11 +4,23 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+// import vào dự án thư việc redux
+import { Provider } from 'react-redux'
+import { createStore } from 'redux'
+import rootReducer from './store/reduce/rootReduce'
+
+// Để tạo được 1 redux store ta cần SD createStore để tạo và nạp dl vào
+const reduxStore = createStore(rootReducer)
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+
+   <Provider store={reduxStore}>
+      <App />
+    </Provider>
+ 
 );
 
 // If you want to start measuring performance in your app, pass a function

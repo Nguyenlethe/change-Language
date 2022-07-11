@@ -1,0 +1,66 @@
+{
+    "nav": {
+        "home": "Hello All Family",
+        "news": "Hello All Family 1",
+        "contact": "Hello All Family 2",
+        "about": "Hello All Family 3",
+        "homee": {
+            "content": "Hello All Family 6",
+            "home": "Hello All Family",
+            "news": "Hello All Family 1",
+            "contact": "Hello All Family 2",
+            "about": "Hello All Family 3",
+            "blog":{
+                "title": "Hello Blog",
+                "content": "Hello Blog 2",
+                "footer": "Hello Blog 3",
+                "element": {
+                    "R1":"Admin 1",
+                    "R2":"Admin 2",
+                    "R3":"Admin 3",
+                    "position": {
+                        "P1":"Docter 1",
+                        "P2":"Docter 2",
+                        "P3":"Docter 3",
+                        "blog": "Waves on the water Oh the waves miss the shore Can't sleep day and night Waves in the depths My heart misses you Even in my dreams I'm awake Even to the north Though to the south Everywhere I think Towards you - one way"
+                    }
+                }
+            }
+        }
+    },
+    "footer": {
+        "home": "Hello All Family",
+        "news": "Hello All Family 1",
+        "contact": "Hello All Family 2",
+        "about": "Hello All Family 3",
+        "homee": {
+            "content": "Hello All Family 6",
+            "home": "Hello All Family",
+            "news": "Hello All Family 1",
+            "contact": "Hello All Family 2",
+            "about": "Hello All Family 3",
+            "blog":{
+                "title": "Hello Blog",
+                "content": "Hello Blog 2",
+                "footer": "Hello Blog 3",
+                "element": {
+                    "R1":"Admin 1",
+                    "R2":"Admin 2",
+                    "R3":"Admin 3",
+                    "position": {
+                        "P1":"Docter 1",
+                        "P2":"Docter 2",
+                        "P3":"Docter 3"
+                    }
+                }
+            }
+        }
+    },
+    "content": {
+        "text": "Lunar New Year Festival often falls between late January and early February; it is among the most important holidays in Vietnam. Officially, the festival includes the 1st, 2nd, and 3rd day in Lunar Calendar; however, Vietnamese people often spend nearly a month celebrating this special event. Tet Holiday gets its beginning marked with the first day in the Lunar Year; however, its preparation starts long before that. The 23rd day of the last Lunar month is East Day—a ritual worshiping Kitchen Gods (Tao Cong). It thought that each year on this day, these Gods go to heaven to tell Jade Emperor about all activities of households on earth. On New Year’s Eve, they return home to continue their duties as taking care of families. On New Year’s Day, the first ones who come to visit households—called first-foot—are very important and hence need to be well chosen, as they believed to hold in their hands the entire luck of the family in New Year (Tan Nien). After that, till the third day or even the fourth day of Tet, individuals meet relatives, friends, and colleagues, wishing them all kinds of good things like happiness, health, and success.",
+        "home": "Hello All Family",
+        "news": "Hello All Family 1",
+        "contact": "Hello All Family 2",
+        "about": "Hello All Family 3"
+    }
+}
